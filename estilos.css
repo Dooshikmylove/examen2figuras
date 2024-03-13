@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+#lienzo1{
+    width: 500px;
+    height: 500px;
+    background-color:darkmagenta;
+}
+#lienzo2{
+    width: 500px;
+    height: 500px;
+    background-color: cadetblue;
+}
+#lienzo3{
+    width: 500px;
+    height: 500px;
+    background-color: darkslategray;
+}
+#lienzo4{
+    width: 500px;
+    height: 500px;
+    background-color: cadetblue;
+}
+#lienzo5{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(231, 55, 84);
+}
+#c1{
+width: 100px;
+height: 100px;
+background: sandybrown;
+position: relative;
+bottom: 450px;
+right: 150px;
+}
+#c2{
+    width: 100px;
+    height: 100px;
+    background: sandybrown;
+    position: relative;
+    bottom: 250px;
+    right: 150px;
+    }
+    #c3{
+        width: 100px;
+        height: 100px;
+        background: sandybrown;
+        position: relative;
+        bottom: 650px;
+        left: 150px;
+        }
+        #c4{
+            width: 100px;
+            height: 100px;
+            background: sandybrown;
+            position: relative;
+            bottom: 450px;
+            left: 150px;
+            }
+#f1{
+    width: 370px;
+    height: 200px;
+    background: midnightblue;
+    position: relative;
+    bottom: 350px;
+}
+#f2{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background: cadetblue;
+    position: relative;
+    bottom: 600px;
+}
+#f3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: midnightblue;
+    position: relative;
+    bottom: 850px;
+}
+#f4{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: yellow;
+    position: relative;
+    bottom: 1000px;
+}
+#r1{
+    width: 500px;
+    height: 250px;
+    background: cyan;
+    position: relative;
+    bottom: 370px;
+}
+#r2{
+    width: 300px;
+    height: 300px;
+    rotate: 45deg;
+    background: darkslategray;
+    position: relative;
+    bottom: 650px;
+}
+#r3{
+    width: 200px;
+    height: 200px;
+    rotate: 45deg;
+    background: cyan;
+    position: relative;
+    bottom: 900px;
+}
+#r4{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background: rgb(55, 55, 55);
+    position: relative;
+    bottom: 1030px;
+}
+#a1{
+    width: 350px;
+    height: 350px;
+    background: midnightblue;
+    position: relative;
+    bottom: 420px;
+}
+#a2{
+    width: 220px;
+    height: 220px;
+    rotate: 30deg;
+    background: cadetblue;
+    position: relative;
+    bottom: 700px;
+}
+#a3{
+    width: 120px;
+    height: 120px;
+    rotate: 40deg;
+    background: midnightblue;
+    position: relative;
+    bottom: 870px;
+}
+#b1{
+    width: 200px;
+    height: 200px;
+    background: beige;
+    position: relative;
+    bottom: 250px;
+}
+#b2{
+    width: 100px;
+    height: 100px;
+rotate: 45deg;
+    background: rgb(69, 156, 143);
+    position: relative;
+    bottom: 570px;
+    right: 100px;
+}
+#b3{
+    width: 150px;
+    height: 150px;
+    rotate: 120deg;
+    background: rgb(255, 255, 80);
+    position: relative;
+    bottom: 725px;
+    left: 75px;
+}
